@@ -1,10 +1,9 @@
 {
-  "name": "deVoucher",
-  "symbol": "DVCHR",
-  "description": "This NFT represents a $50 USD voucher for 1-800-PetSupplies. Burn to redeem via deVoucher.",
- "image": "https://raw.githubusercontent.com/critlabs/devoucher-assets/ecdd161edc5373631ba2c3ea21c81ea04e936f0c/images/US_1.png",
-
-  "external_url": "https://www.critlabs.io/devoucher",
+  "name": "critVoucher",
+  "symbol": "CVCHR",
+  "description": "This NFT represents a $50 USD voucher for 1-800-PetSupplies.",
+ "image": "https://raw.githubusercontent.com/critlabs/critvoucher-assets/main/images/16.png",
+  "external_url": "https://www.critlabs.io/critvoucher",
   "attributes": [
     { "trait_type": "Vendor", "value": "1-800-PetSupplies" },
     { "trait_type": "Region", "value": "US" },
@@ -12,3 +11,4 @@
    
   ]
 }
+
